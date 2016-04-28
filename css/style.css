@@ -32,6 +32,10 @@ strong{
     margin-top: 60px;
 }
 
+.p{
+    padding: 20px;
+}
+
 .typed-cursor{
     opacity: 1;
     -webkit-animation: blink 0.7s infinite;
