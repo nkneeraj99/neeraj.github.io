@@ -2,55 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a15431ad-9e92-493c-adee-2264d63d35f3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/OpenType/GothamRnd-Bold.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/OpenType/GothamRnd-BoldIta.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/OpenType/GothamRnd-Book.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/OpenType/GothamRnd-BookIta.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/OpenType/GothamRnd-Light.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/OpenType/GothamRnd-LightIta.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/OpenType/GothamRnd-MedIta.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/OpenType/GothamRnd-Medium.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-Bold.pfb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-Bold.pfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-BoldIta.pfb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-BoldIta.pfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-Book.pfb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-Book.pfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-BookIta.pfb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-BookIta.pfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-Light.pfb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-Light.pfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-LightIta.pfb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-LightIta.pfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-MedIta.pfb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-MedIta.pfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-Medium.pfb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-Medium.pfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/About OpenType Fonts.url" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-Bold.afm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-Bold.inf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-BoldIta.afm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-BoldIta.inf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-Book.afm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-Book.inf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-BookIta.afm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-BookIta.inf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-Light.afm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-Light.inf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-LightIta.afm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-LightIta.inf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-MedIta.afm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-MedIta.inf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-Medium.afm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/PostScript/GothamRnd-Medium.inf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Gotham Rounded/Troubleshooting.url" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/typed.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/updated-resume.pdf" afterPath="$PROJECT_DIR$/img/updated-resume.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/favicon.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="itsneeraj.github.io.iws" />
@@ -72,20 +25,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.35227272">
+              <caret line="83" column="27" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.52272725">
+            <state vertical-scroll-proportion="56.041668">
               <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
               <folding />
             </state>
@@ -108,8 +61,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/scss/style.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -176,7 +129,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fonts" />
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -208,11 +161,12 @@
     <property name="list.type.of.created.stylesheet" value="SCSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/fonts" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
@@ -386,18 +340,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52272725">
+        <state vertical-scroll-proportion="56.041668">
           <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35227272">
+          <caret line="83" column="27" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="27" />
           <folding />
         </state>
       </provider>
