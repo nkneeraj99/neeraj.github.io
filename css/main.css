@@ -42,6 +42,10 @@ body::after {
   opacity: 0.2;
 }
 
+.navbar{
+  background-color: #f3ffff;
+}
+
 nav {
   position: fixed;
   top: 0;
