@@ -222,9 +222,9 @@ nav {
     align-items: flex-end;
   }
 
-  .navbar {
+  /* .navbar {
     background-color: #1f1f1f;
-  }
+  } */
 }
 
 @media screen and (max-width: 400px) {
